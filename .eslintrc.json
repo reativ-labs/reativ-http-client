@@ -1,0 +1,5 @@
+{
+    "extends": [
+        "@reativ/eslint-config/node"
+    ]
+}
